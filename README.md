@@ -33,7 +33,7 @@ BotanIdent
 
 # TechTales (English)
 
-[Deutsche Version hier](#TeachTales-(German)]
+[Deutsche Version hier](https://github.com/reallaborwald/tech-tales/blob/main/README.md#techtales-german)
 
 ![exhibition flyer with pixel-art illustration of trees and leaves and fire](docs/TechTales_Plakat.png)
 
