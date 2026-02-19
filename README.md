@@ -1,14 +1,10 @@
 <details>
 <summary>🚧 Draft notes (remove before release)</summary>
-
-> ⚠️ **TODO:**  
-> -[] Add shortcut to jump to German section (or remove it)   
-> -[] add links to individual projects
-
+ 
+> -[x] Add shortcut to jump to German section (or remove it)   
+> -[] add missing links to individual projects
 
 </details>
-
-<!-- TODO: add shortcut to jump to German section -> html comment, this should be entirely invisible -->
 
 ![banner with "Tech Tales - by Living the Forest Lab](docs/TechTales_banner.png)
 
@@ -35,9 +31,9 @@ BotanIdent
 [SpreeBerlin (external website)](https://www.spreeberlin.de/) - TODO
 
 
-# Tech Tales
+# TechTales (English)
 
-<!-- TODO: add shortcut to jump to German section -> html comment, this should be entirely invisible -->
+[Deutsche Version hier](#TeachTales-(German)]
 
 ![exhibition flyer with pixel-art illustration of trees and leaves and fire](docs/TechTales_Plakat.png)
 
@@ -55,21 +51,7 @@ The exhibition will be presented in the UNI_VERSUM in the main building of the T
 
 (from https://www.lifolab.de/techtales)
 
-## Press / Articles on 
-
-[our website (English)](https://www.lifolab.de/techtales)
-
-[main website of TU Berlin (English and German)](https://www.tu.berlin/en/science-and-society/event-details/events/event/019a0c22-9b13-721c-aeed-6e1f4e89aee3)
-
-[website of Bühnenbild_Szenischer Raum, TU Berlin Fakultät VI (English and German)](https://www.tu-buehnenbild.de/en/detail/tech-tales-2/)
-
-[Berlin Science Week 2026 (English and German)](https://berlinscienceweek.com/de/programme/tech-tales-living-forest-lab)
-
-
-## TODO: German 
-
-TechTales  
-by Living the Forest Lab
+## TechTales (German) 
 
 Ein märchenhaft anmutender Baum erfüllt den Raum, während sich Lichter in einem kaum erkennbaren Rhythmus verändern. Frei verfügbare Echtzeit-Daten über Waldbrände werden in ein Lichtspiel aus Farben und Helligkeit übersetzt und machen den aktuellen Zustand der Wälder in verschiedenen Weltregionen sichtbar. Interaktive technische Experimente aus dem Forschungsprojekt Reallabor Wald laden zum Entdecken und Ausprobieren ein. Sie erforschen die komplexen Verflechtungen von Natur, Kultur und Technik mit multiperspektivischen Ansätzen, um unsere Umwelt zu erfassen und experimentieren spielerisch mit unterschiedlichen Formen der Datenvisualisierung.
 
@@ -83,4 +65,13 @@ TechTales ist eine Zusammenarbeit zwischen dem Forschungsprojekt Reallabor Wald 
 
 Die Ausstellung wird im UNI_VERSUM im Hauptgebäude der TU Berlin präsentiert und ist Teil der Berlin Science Week 2025. Das UNI_VERSUM läuft in Pilotphase zum Projekt TULIUM, eines neuen Transfer- und Ausstellungsgebäudes auf dem TU-Campus, das sich derzeit im Bau befindet. Es erprobt verschiedene Formate, die später auf den Ausstellungs- und Veranstaltungsflächen fortgeführt werden sollen.
 
+## Press / Articles on 
+
+[our website (English)](https://www.lifolab.de/techtales)
+
+[main website of TU Berlin (English and German)](https://www.tu.berlin/en/science-and-society/event-details/events/event/019a0c22-9b13-721c-aeed-6e1f4e89aee3)
+
+[website of Bühnenbild_Szenischer Raum, TU Berlin Fakultät VI (English and German)](https://www.tu-buehnenbild.de/en/detail/tech-tales-2/)
+
+[Berlin Science Week 2026 (English and German)](https://berlinscienceweek.com/de/programme/tech-tales-living-forest-lab)
 
